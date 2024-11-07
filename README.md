@@ -1,5 +1,7 @@
-# Cohort-3.0-Python-Programming-Fellowship-Assignments
+# Cohort-3.0-Python-Programming-Fellowship-Assignments.
+
 My Journey with Arewa Data Science Fellowship"
+
 As I gazed out the window, lost in thought, my mind wandered through the rollercoaster of emotions that had defined my life. The pain of losing my mother to cancer still lingered, a constant reminder of the darkness that once consumed me.
 After her passing, my world crumbled. My father, overwhelmed by grief, became a shadow of himself, and I struggled to find meaning in a world without my guiding light. School became a challenge, relationships suffered, and self-doubt crept in.
 But life had other plans.
